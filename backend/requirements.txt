@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+numpy
+opencv-python-headless
+# torch # 后续根据你的CUDA版本自行安装
+# segment-anything # 后续安装
